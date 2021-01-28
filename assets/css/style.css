@@ -768,11 +768,11 @@ video {
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  height: 120px;
+  height: 150px;
 }
 
 .clients .client-logo img {
-  height: 40px;
+  height: 70px;
 }
 
 .clients .client-logo:hover img {
